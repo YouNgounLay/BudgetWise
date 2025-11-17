@@ -1,0 +1,12 @@
+body {
+    /* Colouring */
+    color: var(--text-colour);
+    background-color: var(--bg-colour);
+
+    /* Dimension */
+    min-width: None;
+    min-height: None;
+    padding: 0px;
+    margin: 0px;
+    height: 95vh;
+}

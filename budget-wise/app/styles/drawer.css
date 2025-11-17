@@ -1,0 +1,14 @@
+.drawer {
+    width: 80px;    
+    height: 100vh;
+    background-color: var(--primary-colour);
+}
+
+.drawer-menu-item {
+    background-color: var(--secondary-colour);
+    padding: 1em;
+}
+
+.drawer-menu-item:hover {
+
+}
